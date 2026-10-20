@@ -38,4 +38,4 @@ Instale a versão nova por cima: as definições e as marcações ficam como est
 
 ## Versão
 
-Pré-lançamento da 2.0. O feedback é bem-vindo.
+Versão atual: 2.1. O feedback é bem-vindo.
